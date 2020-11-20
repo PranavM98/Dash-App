@@ -1,0 +1,7 @@
+dash
+numpy
+pandas
+statsmodels
+boto3
+plotly
+matplotlib
